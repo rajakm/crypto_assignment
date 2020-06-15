@@ -2,7 +2,7 @@
 
   - Created using Java Serenity BDD framework for UI and Java RestAsseured for API tasks
   - Lean Page Object Model with action classes is implemented enabling framework maintainabiity and execution performance.
-  - This framework will log both the API request and response in the report which makes easy to analyse
+  - This framework will log both the API request and response in the report which makes easy to analyse test failures
 
 ## Prerequisites
  - Maven version 3 or above and and JDK version 8 or above are already installed on the host machine.
